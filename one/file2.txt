@@ -1,1 +1,2 @@
-This is file two for git
+This is file two for git 
+this is the change for file2

@@ -1,1 +1,3 @@
 This is a buggy file which i am starting to fix
+
+This is new fix.

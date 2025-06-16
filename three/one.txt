@@ -1,1 +1,2 @@
-This is first file
+This is first file.
+Adding another file to the folder and commiting it.

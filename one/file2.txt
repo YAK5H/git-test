@@ -1,2 +1,4 @@
 This is file two for git 
 this is the change for file2
+
+This is the change for the file 2 through bugfix.
